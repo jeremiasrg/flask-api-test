@@ -1,0 +1,14 @@
+autopep8==1.5.7
+blinker==1.4
+certifi==2021.5.30
+colorama==0.4.4
+elastic-apm==6.5.0
+Flask==2.0.2
+itsdangerous==2.0.1
+Jinja2==3.0.2
+MarkupSafe==2.0.1
+psutil==5.8.0
+pycodestyle==2.7.0
+toml==0.10.2
+urllib3==1.26.7
+Werkzeug==2.0.2
